@@ -1,0 +1,601 @@
+Cliente,Produto,Categoria,Quantidade,Preco_Unitario,Data_Compra,Loja
+Jeffery Hernandez,Jaqueta,Acessórios,2.0,156.22,2025-01-08,Boa Viagem
+Rachel Hamilton,Sapato,Calçados,2.0,344.37,,Boa Viagem
+Randy Moyer,Cinto,Calçados,4.0,,,Boa Viagem
+Samantha Petty,Tênis,Calçados,4.0,185.54,2025-01-19,Boa Viagem
+David Watson,Cinto,Calçados,4.0,160.31,2025-01-13,Boa Viagem
+Omar Lynch DDS,Carteira,Acessórios,5.0,,2025-01-13,Boa Viagem
+Samantha Petty,Sapato,Calçados,2.0,105.14,2025-01-13,Boa Viagem
+Daniel Vaughn,Relógio,Vestuário,4.0,33.4,2025-01-12,Boa Viagem
+Julie Horton,Carteira,Acessórios,2.0,,,Jaboatão
+Jacob Miller,Cinto,Calçados,1.0,456.19,2025-01-16,Boa Viagem
+Michele Johnston,Relógio,Vestuário,3.0,239.32,2025-01-17,Jaboatão
+Mary Long,Tênis,Calçados,4.0,371.71,2025-01-10,Boa Viagem
+James Kennedy,Relógio,Vestuário,3.0,172.42,2025-01-20,Jaboatão
+Jacob Miller,Blusa,Vestuário,5.0,,2025-01-19,Boa Viagem
+Tina Anderson,Tênis,Calçados,1.0,470.01,2025-01-10,Jaboatão
+Anthony Mcfarland,Tênis,Calçados,5.0,268.02,,Boa Viagem
+Tanner Hickman,Relógio,Vestuário,2.0,,2025-01-12,Jaboatão
+Emily Baker,Camisa,Vestuário,2.0,498.67,2025-01-13,Jaboatão
+Michael Powers,Sapato,Calçados,,154.29,2025-01-12,Jaboatão
+Rachel Hamilton,Camisa,Vestuário,4.0,379.6,,Jaboatão
+Mary Johnson,Carteira,Acessórios,2.0,427.91,2025-01-17,Jaboatão
+Linda Schneider,Camisa,Vestuário,,71.03,2025-01-16,Boa Viagem
+David Watson,Carteira,Acessórios,1.0,475.58,2025-01-12,Jaboatão
+Aaron Martinez,Blusa,Vestuário,5.0,279.41,,Jaboatão
+Lisa Simpson,Blusa,Vestuário,,226.05,2025-01-02,Boa Viagem
+Joshua Thompson,Sapato,Calçados,2.0,447.98,2025-01-17,Jaboatão
+Jennifer Johnson,Sapato,Calçados,,177.93,2025-01-04,Jaboatão
+Melissa Chen,Relógio,Vestuário,2.0,132.33,2025-01-01,Jaboatão
+Linda Schneider,Relógio,Vestuário,2.0,451.23,2025-01-19,Boa Viagem
+Robert Ramirez,Camisa,Vestuário,4.0,380.51,2025-01-20,Jaboatão
+Thomas Hampton,Carteira,Acessórios,4.0,,,Jaboatão
+Patricia Hicks,Jaqueta,Acessórios,5.0,116.3,2025-01-03,Jaboatão
+Mitchell Clark,Camisa,Vestuário,2.0,292.99,2025-01-03,Jaboatão
+Raven Lynn,Vestido,Vestuário,,412.63,2025-01-13,Jaboatão
+Vanessa Shepard,Jaqueta,Acessórios,1.0,281.64,2025-01-09,Jaboatão
+Michael Powers,Camisa,Vestuário,,379.94,2025-01-14,Boa Viagem
+Lisa Simpson,Tênis,Calçados,3.0,291.83,2025-01-09,Boa Viagem
+Rodney Carr,Sapato,Calçados,1.0,,2025-01-06,Jaboatão
+Troy Keith,Tênis,Calçados,3.0,288.0,2025-01-03,Jaboatão
+Michael Lee,Camisa,Vestuário,1.0,408.52,2025-01-18,Boa Viagem
+Joseph Anderson,Bolsa,Acessórios,3.0,350.51,2025-01-09,Boa Viagem
+Maria Lloyd,Sapato,Calçados,4.0,180.79,2025-01-14,Jaboatão
+Michael Lee,Relógio,Vestuário,5.0,174.73,2025-01-17,Jaboatão
+Daniel Vaughn,Camisa,Vestuário,3.0,336.22,2025-01-18,Jaboatão
+Elaine Rojas,Camisa,Vestuário,,,2025-01-11,Jaboatão
+David Watson,Carteira,Acessórios,1.0,,,Jaboatão
+Andrew Butler,Tênis,Calçados,4.0,,,Boa Viagem
+Natalie Green,Vestido,Vestuário,5.0,,,Boa Viagem
+Brian Bird,Cinto,Calçados,3.0,333.87,2025-01-01,Boa Viagem
+Omar Lynch DDS,Jaqueta,Acessórios,,352.39,2025-01-12,Boa Viagem
+Jessica Stewart,Vestido,Vestuário,5.0,,2025-01-08,Boa Viagem
+Shannon Jackson,Camisa,Vestuário,,,2025-01-04,Jaboatão
+Sherry Watts,Bolsa,Acessórios,5.0,192.47,2025-01-20,Jaboatão
+Elizabeth Kim,Carteira,Acessórios,5.0,377.03,,Boa Viagem
+Robert Ramirez,Vestido,Vestuário,4.0,455.36,2025-01-01,Boa Viagem
+James Mann,Camisa,Vestuário,4.0,468.98,2025-01-13,Boa Viagem
+Randy Jackson,Sapato,Calçados,4.0,343.9,2025-01-01,Jaboatão
+Thomas Hampton,Cinto,Calçados,,,2025-01-16,Boa Viagem
+Charles Mejia,Blusa,Vestuário,4.0,399.91,,Boa Viagem
+Randy Moyer,Blusa,Vestuário,,154.27,2025-01-14,Jaboatão
+Anthony Mcfarland,Blusa,Vestuário,,306.36,2025-01-13,Boa Viagem
+Randy Moyer,Camisa,Vestuário,5.0,109.86,2025-01-10,Jaboatão
+Evan Hernandez,Cinto,Calçados,4.0,339.92,2025-01-04,Boa Viagem
+Eric Johnson,Blusa,Vestuário,2.0,123.24,2025-01-08,Boa Viagem
+Omar Lynch DDS,Tênis,Calçados,1.0,192.07,2025-01-01,Boa Viagem
+Eric Johnson,Cinto,Calçados,3.0,279.88,2025-01-09,Boa Viagem
+Lisa Simpson,Bolsa,Acessórios,1.0,,,Boa Viagem
+Mary Johnson,Camisa,Vestuário,2.0,311.37,2025-01-16,Boa Viagem
+Brittany Lee,Bolsa,Acessórios,2.0,,2025-01-16,Boa Viagem
+Elaine Rojas,Carteira,Acessórios,3.0,358.12,2025-01-20,Boa Viagem
+Margaret Clark,Blusa,Vestuário,4.0,113.25,2025-01-14,Boa Viagem
+Laura Pacheco,Bolsa,Acessórios,2.0,315.35,2025-01-12,Jaboatão
+Brandon Wallace,Relógio,Vestuário,2.0,52.78,2025-01-14,Boa Viagem
+Robert Ramirez,Tênis,Calçados,1.0,98.59,,Jaboatão
+Erin Zavala,Relógio,Vestuário,1.0,158.58,,Jaboatão
+Tyler Bates,Tênis,Calçados,2.0,345.1,2025-01-19,Boa Viagem
+Brandon Wallace,Tênis,Calçados,2.0,395.82,2025-01-20,Boa Viagem
+Jeffery Hernandez,Carteira,Acessórios,1.0,116.03,2025-01-20,Boa Viagem
+Rodney Carr,Relógio,Vestuário,2.0,,,Boa Viagem
+Troy Keith,Sapato,Calçados,4.0,486.99,2025-01-02,Jaboatão
+Gloria Gillespie,Camisa,Vestuário,5.0,,,Jaboatão
+Diane Moore,Bolsa,Acessórios,4.0,161.57,2025-01-13,Boa Viagem
+Evan Hernandez,Vestido,Vestuário,5.0,394.64,,Jaboatão
+Joseph Anderson,Cinto,Calçados,4.0,84.95,,Boa Viagem
+Alexander Villegas,Jaqueta,Acessórios,,62.23,2025-01-04,Boa Viagem
+Terry Roach,Camisa,Vestuário,5.0,,2025-01-17,Jaboatão
+Julie Horton,Tênis,Calçados,1.0,230.91,2025-01-16,Boa Viagem
+Richard Long,Vestido,Vestuário,,215.32,2025-01-17,Jaboatão
+Vanessa Shepard,Blusa,Vestuário,3.0,306.76,2025-01-15,Jaboatão
+Omar Lynch DDS,Relógio,Vestuário,,,,Boa Viagem
+Thomas Hampton,Relógio,Vestuário,5.0,73.54,2025-01-17,Boa Viagem
+Jacob Miller,Relógio,Vestuário,3.0,127.01,2025-01-14,Jaboatão
+Lisa Simpson,Camisa,Vestuário,3.0,174.54,,Jaboatão
+Joseph Anderson,Blusa,Vestuário,4.0,454.87,,Boa Viagem
+David Watson,Vestido,Vestuário,5.0,269.26,2025-01-11,Jaboatão
+Janice Stanley,Relógio,Vestuário,,379.71,2025-01-02,Boa Viagem
+Richard Long,Relógio,Vestuário,5.0,54.51,,Jaboatão
+Elizabeth Kim,Tênis,Calçados,5.0,497.96,2025-01-14,Boa Viagem
+Tina Anderson,Carteira,Acessórios,5.0,,2025-01-17,Jaboatão
+Joseph Cline,Cinto,Calçados,3.0,,2025-01-03,Jaboatão
+Bobby Wood,Bolsa,Acessórios,2.0,488.97,2025-01-06,Jaboatão
+Mary Long,Jaqueta,Acessórios,2.0,357.02,2025-01-14,Jaboatão
+Kristina Thomas,Carteira,Acessórios,1.0,,2025-01-17,Boa Viagem
+Bobby Wood,Vestido,Vestuário,2.0,183.41,2025-01-10,Boa Viagem
+Sheila Butler,Blusa,Vestuário,5.0,326.27,2025-01-05,Boa Viagem
+Raven Lynn,Cinto,Calçados,,53.53,2025-01-16,Boa Viagem
+Jacob Miller,Camisa,Vestuário,2.0,232.68,,Boa Viagem
+Mary Long,Sapato,Calçados,4.0,,2025-01-20,Boa Viagem
+Nicole White,Bolsa,Acessórios,4.0,146.07,,Jaboatão
+Mitchell Clark,Blusa,Vestuário,,347.99,2025-01-06,Boa Viagem
+Erin Zavala,Vestido,Vestuário,,330.68,2025-01-05,Jaboatão
+Christine Jones,Relógio,Vestuário,4.0,421.27,2025-01-08,Boa Viagem
+Darrell Lucas,Bolsa,Acessórios,1.0,429.1,2025-01-08,Boa Viagem
+James Mann,Relógio,Vestuário,1.0,205.28,2025-01-19,Jaboatão
+Robin Harris,Carteira,Acessórios,3.0,,2025-01-07,Jaboatão
+Monica Powell DDS,Camisa,Vestuário,2.0,,,Jaboatão
+Katie Lewis,Carteira,Acessórios,2.0,354.7,2025-01-09,Boa Viagem
+Christine Jones,Relógio,Vestuário,,93.8,2025-01-18,Jaboatão
+Vanessa Shepard,Blusa,Vestuário,1.0,45.03,2025-01-08,Jaboatão
+David Watson,Camisa,Vestuário,3.0,402.59,2025-01-12,Jaboatão
+Erin Zavala,Cinto,Calçados,1.0,495.08,2025-01-01,Jaboatão
+Jeffery Hernandez,Bolsa,Acessórios,2.0,367.0,2025-01-09,Boa Viagem
+Regina Taylor,Sapato,Calçados,4.0,97.68,2025-01-13,Jaboatão
+Aaron Martinez,Relógio,Vestuário,4.0,166.66,2025-01-17,Boa Viagem
+Amanda Owen MD,Camisa,Vestuário,1.0,173.66,2025-01-20,Boa Viagem
+Patricia Hicks,Cinto,Calçados,2.0,355.65,2025-01-17,Jaboatão
+Rachel Hamilton,Vestido,Vestuário,,,2025-01-19,Boa Viagem
+Alexander Villegas,Bolsa,Acessórios,,345.15,2025-01-08,Boa Viagem
+Christopher Little,Carteira,Acessórios,2.0,147.01,2025-01-20,Jaboatão
+David Watson,Vestido,Vestuário,5.0,217.17,2025-01-07,Boa Viagem
+Kimberly Mayer,Camisa,Vestuário,3.0,459.91,2025-01-08,Jaboatão
+Kristin Weaver,Jaqueta,Acessórios,5.0,278.27,2025-01-12,Boa Viagem
+Darrell Lucas,Tênis,Calçados,5.0,218.72,,Boa Viagem
+Tyler Bates,Camisa,Vestuário,,304.37,2025-01-06,Jaboatão
+Monica Powell DDS,Blusa,Vestuário,,313.09,2025-01-15,Boa Viagem
+James Fox,Carteira,Acessórios,2.0,378.46,2025-01-13,Boa Viagem
+Erin Zavala,Tênis,Calçados,,367.87,2025-01-17,Jaboatão
+Alexander Villegas,Vestido,Vestuário,1.0,315.74,2025-01-09,Boa Viagem
+Evan Hernandez,Blusa,Vestuário,1.0,91.93,2025-01-17,Jaboatão
+Randy Jackson,Jaqueta,Acessórios,5.0,332.27,2025-01-12,Jaboatão
+Joshua Thompson,Camisa,Vestuário,5.0,468.92,2025-01-04,Boa Viagem
+John Kennedy,Camisa,Vestuário,3.0,359.16,2025-01-02,Boa Viagem
+Rachel Hamilton,Camisa,Vestuário,4.0,257.11,2025-01-11,Jaboatão
+Samantha Petty,Bolsa,Acessórios,5.0,216.58,2025-01-14,Boa Viagem
+Terry Roach,Carteira,Acessórios,5.0,134.52,2025-01-05,Jaboatão
+Kimberly Mayer,Sapato,Calçados,2.0,150.5,2025-01-02,Jaboatão
+Jonathan Jordan,Vestido,Vestuário,,,2025-01-10,Jaboatão
+Shirley Rivas,Sapato,Calçados,2.0,357.95,2025-01-09,Jaboatão
+Brittany Lee,Jaqueta,Acessórios,4.0,351.34,2025-01-08,Boa Viagem
+Jim Ramirez,Tênis,Calçados,4.0,274.87,,Jaboatão
+Michele Johnston,Carteira,Acessórios,2.0,186.07,2025-01-14,Jaboatão
+Rachel Hamilton,Blusa,Vestuário,3.0,477.54,2025-01-12,Boa Viagem
+Patricia Hicks,Blusa,Vestuário,,261.02,,Boa Viagem
+David Watson,Bolsa,Acessórios,5.0,170.11,2025-01-05,Jaboatão
+John Glover,Vestido,Vestuário,,213.32,2025-01-04,Boa Viagem
+James Kennedy,Relógio,Vestuário,,212.95,,Jaboatão
+John Kennedy,Blusa,Vestuário,,282.26,2025-01-13,Jaboatão
+Katie Lewis,Vestido,Vestuário,5.0,152.17,2025-01-19,Boa Viagem
+Pamela Smith DDS,Cinto,Calçados,,409.76,2025-01-17,Boa Viagem
+Linda Schneider,Blusa,Vestuário,5.0,70.79,2025-01-11,Boa Viagem
+Monica Powell DDS,Relógio,Vestuário,3.0,130.1,2025-01-13,Jaboatão
+Tyler Bates,Relógio,Vestuário,2.0,321.37,2025-01-20,Jaboatão
+Julie Horton,Tênis,Calçados,3.0,406.07,2025-01-13,Boa Viagem
+Tanner Hickman,Camisa,Vestuário,,343.18,2025-01-04,Jaboatão
+Mary Long,Blusa,Vestuário,4.0,357.54,,Boa Viagem
+Erin Zavala,Carteira,Acessórios,,377.12,2025-01-18,Jaboatão
+Jonathan Strickland,Tênis,Calçados,,269.9,2025-01-15,Boa Viagem
+Sherry Watts,Jaqueta,Acessórios,2.0,270.1,2025-01-09,Jaboatão
+Linda Schneider,Bolsa,Acessórios,1.0,218.74,2025-01-18,Boa Viagem
+Melissa Chen,Carteira,Acessórios,,,2025-01-13,Jaboatão
+Jonathan Jordan,Carteira,Acessórios,,133.44,,Jaboatão
+Christine Jones,Camisa,Vestuário,4.0,,2025-01-10,Boa Viagem
+Michele Johnston,Tênis,Calçados,3.0,221.61,,Jaboatão
+Jonathan Strickland,Blusa,Vestuário,,181.74,,Jaboatão
+Aaron Martinez,Tênis,Calçados,2.0,437.9,2025-01-04,Jaboatão
+Brittany Lee,Jaqueta,Acessórios,5.0,237.44,2025-01-09,Boa Viagem
+Amanda Owen MD,Carteira,Acessórios,4.0,415.56,2025-01-14,Jaboatão
+Samantha Petty,Sapato,Calçados,1.0,220.22,2025-01-17,Jaboatão
+Terry Roach,Tênis,Calçados,1.0,75.46,2025-01-06,Boa Viagem
+Patricia Hicks,Camisa,Vestuário,3.0,313.28,2025-01-12,Jaboatão
+Eric Johnson,Vestido,Vestuário,1.0,373.38,2025-01-14,Jaboatão
+James Kennedy,Cinto,Calçados,5.0,32.88,2025-01-13,Jaboatão
+Ashley Roberts,Camisa,Vestuário,3.0,96.61,2025-01-03,Boa Viagem
+Monica Powell DDS,Tênis,Calçados,2.0,232.96,2025-01-15,Jaboatão
+Brandon Wallace,Cinto,Calçados,3.0,155.73,2025-01-16,Jaboatão
+Denise Wilson,Bolsa,Acessórios,3.0,104.02,2025-01-08,Jaboatão
+Lisa Fletcher,Vestido,Vestuário,2.0,80.23,,Jaboatão
+Nicole White,Blusa,Vestuário,,123.28,2025-01-02,Jaboatão
+Monica Powell DDS,Cinto,Calçados,5.0,288.98,2025-01-17,Jaboatão
+Gloria Gillespie,Sapato,Calçados,5.0,252.94,,Jaboatão
+Janice Stanley,Cinto,Calçados,4.0,32.39,2025-01-19,Boa Viagem
+Michele Johnston,Blusa,Vestuário,,319.19,2025-01-15,Jaboatão
+Mary Long,Cinto,Calçados,1.0,327.63,2025-01-02,Boa Viagem
+Jeffrey Gibbs,Carteira,Acessórios,5.0,346.05,,Boa Viagem
+Terry Roach,Cinto,Calçados,5.0,450.04,2025-01-17,Jaboatão
+Erin Zavala,Camisa,Vestuário,4.0,295.33,2025-01-12,Boa Viagem
+David Watson,Vestido,Vestuário,4.0,448.82,2025-01-04,Jaboatão
+Kimberly Mayer,Bolsa,Acessórios,,146.75,2025-01-18,Boa Viagem
+Katie Lewis,Tênis,Calçados,4.0,99.91,2025-01-06,Jaboatão
+Jennifer Brown,Blusa,Vestuário,3.0,493.95,2025-01-16,Jaboatão
+Raven Lynn,Sapato,Calçados,3.0,221.03,2025-01-17,Jaboatão
+Randy Moyer,Bolsa,Acessórios,3.0,334.6,,Jaboatão
+Kimberly Mayer,Sapato,Calçados,5.0,161.69,2025-01-17,Jaboatão
+Linda Schneider,Sapato,Calçados,,,2025-01-17,Jaboatão
+Julie Horton,Relógio,Vestuário,4.0,,2025-01-19,Boa Viagem
+Denise Wilson,Relógio,Vestuário,4.0,91.45,2025-01-03,Jaboatão
+Mitchell Clark,Cinto,Calçados,4.0,205.7,2025-01-08,Jaboatão
+James Mann,Blusa,Vestuário,3.0,182.86,2025-01-18,Jaboatão
+Robin Harris,Relógio,Vestuário,3.0,,2025-01-09,Boa Viagem
+Michael Griffin Jr.,Bolsa,Acessórios,5.0,189.23,2025-01-18,Jaboatão
+Michael Powers,Sapato,Calçados,3.0,117.72,2025-01-03,Jaboatão
+Brian Bird,Camisa,Vestuário,1.0,312.42,2025-01-09,Boa Viagem
+Jacob Miller,Jaqueta,Acessórios,1.0,105.96,,Boa Viagem
+Maria Lloyd,Carteira,Acessórios,3.0,355.25,2025-01-11,Boa Viagem
+Haley Rubio DVM,Blusa,Vestuário,1.0,399.63,,Boa Viagem
+Monica Powell DDS,Camisa,Vestuário,2.0,404.45,2025-01-04,Boa Viagem
+Tanner Hickman,Bolsa,Acessórios,,386.45,2025-01-01,Jaboatão
+Kristina Thomas,Camisa,Vestuário,3.0,419.61,2025-01-02,Boa Viagem
+Christine Romero,Bolsa,Acessórios,5.0,393.4,2025-01-04,Boa Viagem
+Julie Horton,Vestido,Vestuário,4.0,,2025-01-17,Boa Viagem
+James Kennedy,Sapato,Calçados,2.0,,2025-01-13,Jaboatão
+Diane Moore,Tênis,Calçados,,126.69,2025-01-05,Jaboatão
+Laura Pacheco,Relógio,Vestuário,1.0,122.98,2025-01-11,Boa Viagem
+Katie Lewis,Vestido,Vestuário,1.0,,2025-01-09,Jaboatão
+Vanessa Shepard,Jaqueta,Acessórios,1.0,311.37,,Boa Viagem
+Rachel Hamilton,Blusa,Vestuário,2.0,369.33,2025-01-04,Boa Viagem
+Elizabeth Kim,Tênis,Calçados,3.0,426.57,2025-01-07,Jaboatão
+Elaine Rojas,Cinto,Calçados,,351.62,2025-01-10,Jaboatão
+Chelsea Rasmussen,Sapato,Calçados,2.0,209.0,2025-01-08,Boa Viagem
+Andrew Butler,Cinto,Calçados,5.0,175.97,2025-01-15,Boa Viagem
+Gloria Gillespie,Tênis,Calçados,3.0,165.46,2025-01-20,Jaboatão
+Melissa Chen,Tênis,Calçados,3.0,,2025-01-10,Jaboatão
+Margaret Clark,Blusa,Vestuário,2.0,277.24,2025-01-09,Boa Viagem
+Vanessa Shepard,Sapato,Calçados,,168.69,2025-01-12,Boa Viagem
+Sherry Watts,Cinto,Calçados,4.0,,,Jaboatão
+Thomas Hampton,Sapato,Calçados,3.0,311.3,2025-01-16,Jaboatão
+Katie Lewis,Cinto,Calçados,3.0,275.04,2025-01-05,Boa Viagem
+Samantha Young,Cinto,Calçados,3.0,430.91,2025-01-14,Jaboatão
+Janice Stanley,Bolsa,Acessórios,3.0,80.59,2025-01-05,Boa Viagem
+Richard Long,Carteira,Acessórios,2.0,379.7,2025-01-11,Jaboatão
+Jacob Miller,Bolsa,Acessórios,,78.28,2025-01-01,Boa Viagem
+Tanner Hickman,Blusa,Vestuário,2.0,,,Boa Viagem
+Christine Romero,Blusa,Vestuário,4.0,,2025-01-12,Jaboatão
+Joseph Anderson,Tênis,Calçados,,96.83,2025-01-13,Jaboatão
+John Kennedy,Camisa,Vestuário,3.0,,2025-01-17,Jaboatão
+Jonathan Jordan,Cinto,Calçados,1.0,353.08,2025-01-13,Boa Viagem
+Michael Powers,Camisa,Vestuário,5.0,460.07,,Jaboatão
+Elaine Rojas,Bolsa,Acessórios,3.0,448.92,2025-01-10,Boa Viagem
+Robin Harris,Tênis,Calçados,5.0,447.46,2025-01-14,Boa Viagem
+Aaron Martinez,Bolsa,Acessórios,5.0,432.19,2025-01-12,Boa Viagem
+Gloria Gillespie,Carteira,Acessórios,2.0,,2025-01-13,Boa Viagem
+Regina Taylor,Bolsa,Acessórios,1.0,418.28,2025-01-17,Boa Viagem
+Robert Ramirez,Tênis,Calçados,3.0,,2025-01-05,Jaboatão
+Darrell Lucas,Cinto,Calçados,5.0,91.65,2025-01-04,Jaboatão
+Maria Lloyd,Bolsa,Acessórios,,251.96,2025-01-12,Boa Viagem
+Tina Anderson,Cinto,Calçados,1.0,450.5,2025-01-11,Jaboatão
+Brandon Wallace,Blusa,Vestuário,5.0,230.44,2025-01-13,Boa Viagem
+Elizabeth Kim,Vestido,Vestuário,1.0,91.53,2025-01-08,Jaboatão
+Darrell Lucas,Carteira,Acessórios,2.0,162.05,,Boa Viagem
+Michael Griffin Jr.,Camisa,Vestuário,4.0,260.49,,Jaboatão
+Katie Mack,Carteira,Acessórios,1.0,349.93,,Boa Viagem
+Sherry Watts,Bolsa,Acessórios,4.0,431.59,2025-01-15,Boa Viagem
+John Kennedy,Bolsa,Acessórios,3.0,458.23,2025-01-13,Boa Viagem
+Kimberly Mayer,Camisa,Vestuário,2.0,223.6,2025-01-10,Jaboatão
+Rhonda Rollins,Bolsa,Acessórios,1.0,479.03,2025-01-03,Jaboatão
+Gloria Gillespie,Sapato,Calçados,3.0,,,Boa Viagem
+Sherry Watts,Bolsa,Acessórios,1.0,244.22,,Jaboatão
+Melissa Chen,Blusa,Vestuário,1.0,323.94,2025-01-02,Jaboatão
+Pamela Smith DDS,Tênis,Calçados,3.0,323.81,2025-01-09,Boa Viagem
+Alexander Villegas,Vestido,Vestuário,1.0,443.08,,Boa Viagem
+Pamela Smith DDS,Bolsa,Acessórios,3.0,253.75,2025-01-06,Jaboatão
+Troy Keith,Jaqueta,Acessórios,4.0,357.43,,Boa Viagem
+Natalie Green,Relógio,Vestuário,3.0,74.17,2025-01-08,Jaboatão
+Tina Anderson,Bolsa,Acessórios,3.0,51.47,2025-01-06,Jaboatão
+Christine Romero,Relógio,Vestuário,3.0,337.35,2025-01-20,Boa Viagem
+Sheila Butler,Relógio,Vestuário,3.0,496.69,,Boa Viagem
+Christine Jones,Jaqueta,Acessórios,2.0,169.3,2025-01-19,Jaboatão
+Alexandria Davis,Jaqueta,Acessórios,,346.8,2025-01-10,Boa Viagem
+Rodney Carr,Camisa,Vestuário,3.0,51.6,2025-01-10,Boa Viagem
+Kristina Thomas,Blusa,Vestuário,4.0,84.13,2025-01-01,Boa Viagem
+Monica Powell DDS,Blusa,Vestuário,1.0,436.61,2025-01-13,Boa Viagem
+Lisa Fletcher,Tênis,Calçados,2.0,376.06,2025-01-15,Boa Viagem
+Robert Ramirez,Cinto,Calçados,2.0,,2025-01-09,Boa Viagem
+Maria Lloyd,Tênis,Calçados,1.0,312.71,,Boa Viagem
+Thomas Hampton,Camisa,Vestuário,2.0,267.11,,Boa Viagem
+Shannon Jackson,Tênis,Calçados,5.0,231.95,2025-01-07,Boa Viagem
+Jim Ramirez,Tênis,Calçados,5.0,426.75,2025-01-04,Jaboatão
+Vanessa Shepard,Carteira,Acessórios,2.0,475.59,2025-01-05,Jaboatão
+Raven Lynn,Tênis,Calçados,2.0,367.16,2025-01-03,Jaboatão
+Christine Jones,Bolsa,Acessórios,5.0,330.05,2025-01-17,Jaboatão
+Rachael Zuniga,Bolsa,Acessórios,2.0,339.4,,Boa Viagem
+Katie Lewis,Camisa,Vestuário,3.0,280.21,2025-01-17,Boa Viagem
+Robin Harris,Sapato,Calçados,5.0,51.23,2025-01-15,Boa Viagem
+Rhonda Rollins,Bolsa,Acessórios,2.0,217.47,2025-01-05,Jaboatão
+Jennifer Brown,Bolsa,Acessórios,3.0,,2025-01-10,Boa Viagem
+Jeffery Hernandez,Blusa,Vestuário,5.0,385.65,2025-01-20,Jaboatão
+Nicole White,Tênis,Calçados,3.0,,2025-01-10,Jaboatão
+Randy Moyer,Vestido,Vestuário,4.0,346.73,2025-01-02,Boa Viagem
+Michael Lee,Bolsa,Acessórios,3.0,368.41,2025-01-15,Boa Viagem
+Alexandria Davis,Vestido,Vestuário,2.0,116.03,2025-01-14,Jaboatão
+Jacob Miller,Jaqueta,Acessórios,4.0,,2025-01-03,Boa Viagem
+Anthony Mcfarland,Cinto,Calçados,1.0,329.51,2025-01-04,Jaboatão
+Kristin Weaver,Carteira,Acessórios,3.0,69.49,2025-01-01,Boa Viagem
+Laura Pacheco,Cinto,Calçados,2.0,,2025-01-05,Jaboatão
+Bobby Wood,Vestido,Vestuário,5.0,420.65,2025-01-16,Boa Viagem
+Mary Long,Relógio,Vestuário,2.0,429.66,2025-01-13,Boa Viagem
+Patricia Hicks,Vestido,Vestuário,4.0,,2025-01-19,Jaboatão
+Robin Harris,Blusa,Vestuário,4.0,369.1,,Boa Viagem
+Randy Jackson,Jaqueta,Acessórios,3.0,463.46,2025-01-06,Jaboatão
+Christine Romero,Tênis,Calçados,5.0,43.64,2025-01-06,Boa Viagem
+Raven Lynn,Tênis,Calçados,4.0,332.26,2025-01-10,Jaboatão
+Katie Mack,Cinto,Calçados,3.0,496.47,2025-01-13,Jaboatão
+Nicole White,Jaqueta,Acessórios,,50.94,2025-01-05,Boa Viagem
+Mr. Henry Lee,Jaqueta,Acessórios,4.0,,,Boa Viagem
+Jacob Miller,Carteira,Acessórios,5.0,262.8,2025-01-14,Jaboatão
+Jeffrey Gibbs,Tênis,Calçados,4.0,148.12,2025-01-19,Jaboatão
+Terry Roach,Carteira,Acessórios,,497.47,2025-01-08,Jaboatão
+Rachael Zuniga,Tênis,Calçados,3.0,132.25,,Boa Viagem
+Kristin Weaver,Carteira,Acessórios,1.0,126.92,2025-01-07,Boa Viagem
+Robin Harris,Cinto,Calçados,,439.07,2025-01-17,Jaboatão
+Anthony Mcfarland,Sapato,Calçados,2.0,499.73,2025-01-20,Boa Viagem
+Katie Lewis,Carteira,Acessórios,2.0,320.91,2025-01-01,Jaboatão
+Christine Romero,Blusa,Vestuário,2.0,365.16,2025-01-20,Boa Viagem
+Samantha Young,Camisa,Vestuário,1.0,220.3,,Boa Viagem
+Lisa Fletcher,Relógio,Vestuário,,,2025-01-01,Boa Viagem
+Shirley Rivas,Blusa,Vestuário,,167.3,2025-01-09,Boa Viagem
+Mary Howard,Tênis,Calçados,,263.93,2025-01-16,Jaboatão
+Terry Roach,Carteira,Acessórios,4.0,496.75,2025-01-10,Jaboatão
+James Mann,Carteira,Acessórios,4.0,184.1,2025-01-10,Boa Viagem
+Mary Long,Cinto,Calçados,3.0,,2025-01-09,Boa Viagem
+Randy Jackson,Sapato,Calçados,4.0,235.54,2025-01-19,Jaboatão
+Nicole White,Sapato,Calçados,5.0,93.99,2025-01-09,Jaboatão
+Lisa Simpson,Tênis,Calçados,4.0,72.16,2025-01-05,Jaboatão
+Denise Wilson,Sapato,Calçados,,98.83,2025-01-06,Jaboatão
+Jennifer Johnson,Vestido,Vestuário,1.0,105.77,2025-01-04,Jaboatão
+Jennifer Brown,Blusa,Vestuário,5.0,448.11,2025-01-17,Jaboatão
+Amanda Owen MD,Camisa,Vestuário,1.0,335.95,2025-01-16,Boa Viagem
+Charles Mejia,Relógio,Vestuário,,440.83,2025-01-03,Jaboatão
+Richard Long,Tênis,Calçados,4.0,317.25,2025-01-19,Boa Viagem
+John Kennedy,Tênis,Calçados,3.0,,2025-01-10,Boa Viagem
+Rachel Hamilton,Camisa,Vestuário,,219.64,2025-01-19,Jaboatão
+Michael Griffin Jr.,Relógio,Vestuário,3.0,156.05,2025-01-04,Boa Viagem
+Jim Ramirez,Bolsa,Acessórios,4.0,139.5,2025-01-12,Boa Viagem
+Katie Mack,Relógio,Vestuário,5.0,,2025-01-15,Jaboatão
+Samantha Petty,Vestido,Vestuário,3.0,59.75,2025-01-18,Boa Viagem
+Evan Hernandez,Vestido,Vestuário,5.0,,2025-01-18,Jaboatão
+Chelsea Rasmussen,Bolsa,Acessórios,,81.5,2025-01-04,Jaboatão
+Jeffrey Gibbs,Relógio,Vestuário,1.0,258.27,2025-01-18,Boa Viagem
+Christine Jones,Sapato,Calçados,3.0,427.3,2025-01-18,Boa Viagem
+Thomas Hampton,Jaqueta,Acessórios,4.0,405.29,2025-01-18,Jaboatão
+Samantha Petty,Tênis,Calçados,2.0,329.1,2025-01-18,Jaboatão
+Mary Howard,Vestido,Vestuário,4.0,,2025-01-12,Boa Viagem
+Rachel Hamilton,Relógio,Vestuário,4.0,297.03,2025-01-19,Boa Viagem
+Richard Long,Camisa,Vestuário,2.0,485.98,2025-01-06,Boa Viagem
+Gloria Gillespie,Carteira,Acessórios,3.0,,2025-01-06,Boa Viagem
+Alexander Villegas,Camisa,Vestuário,3.0,359.34,2025-01-19,Jaboatão
+Charles Mejia,Camisa,Vestuário,,388.48,2025-01-15,Boa Viagem
+Troy Keith,Sapato,Calçados,3.0,348.67,2025-01-06,Boa Viagem
+Patricia Hicks,Vestido,Vestuário,3.0,40.42,2025-01-13,Jaboatão
+Michael Griffin Jr.,Camisa,Vestuário,5.0,86.41,2025-01-05,Jaboatão
+Jessica Stewart,Carteira,Acessórios,5.0,,2025-01-17,Boa Viagem
+Joseph Anderson,Jaqueta,Acessórios,1.0,378.15,,Jaboatão
+Elaine Rojas,Blusa,Vestuário,5.0,129.56,,Boa Viagem
+Rodney Carr,Camisa,Vestuário,2.0,88.68,,Boa Viagem
+Michael Griffin Jr.,Tênis,Calçados,,135.31,2025-01-07,Jaboatão
+Christopher Little,Cinto,Calçados,4.0,497.23,2025-01-06,Jaboatão
+Michael Lee,Bolsa,Acessórios,3.0,462.52,2025-01-20,Jaboatão
+Michele Johnston,Sapato,Calçados,4.0,204.29,2025-01-05,Jaboatão
+Michael Lee,Carteira,Acessórios,4.0,138.59,2025-01-03,Jaboatão
+Shirley Rivas,Bolsa,Acessórios,2.0,42.01,2025-01-03,Boa Viagem
+Joseph Cline,Tênis,Calçados,5.0,368.1,,Boa Viagem
+Patricia Hicks,Sapato,Calçados,5.0,65.56,2025-01-04,Jaboatão
+Omar Lynch DDS,Cinto,Calçados,3.0,307.54,2025-01-07,Jaboatão
+Christopher Little,Vestido,Vestuário,4.0,473.18,2025-01-05,Jaboatão
+Sherry Watts,Cinto,Calçados,3.0,341.06,2025-01-16,Boa Viagem
+Melissa Chen,Carteira,Acessórios,2.0,287.32,2025-01-10,Boa Viagem
+Brandon Wallace,Vestido,Vestuário,4.0,337.44,2025-01-02,Jaboatão
+Mary Johnson,Blusa,Vestuário,4.0,163.72,,Jaboatão
+Aaron Martinez,Sapato,Calçados,2.0,,2025-01-10,Boa Viagem
+Linda Schneider,Tênis,Calçados,2.0,156.43,2025-01-05,Boa Viagem
+Kristina Thomas,Vestido,Vestuário,2.0,325.84,2025-01-12,Boa Viagem
+Gloria Gillespie,Bolsa,Acessórios,4.0,200.06,,Jaboatão
+Rachael Zuniga,Relógio,Vestuário,2.0,323.72,2025-01-07,Jaboatão
+Jacob Miller,Cinto,Calçados,,322.5,,Boa Viagem
+Diane Moore,Vestido,Vestuário,4.0,264.25,2025-01-06,Jaboatão
+Thomas Hampton,Bolsa,Acessórios,2.0,412.78,2025-01-09,Boa Viagem
+James Mann,Vestido,Vestuário,1.0,152.59,2025-01-02,Boa Viagem
+Jeffrey Gibbs,Sapato,Calçados,1.0,329.97,2025-01-03,Boa Viagem
+Brittany Lee,Tênis,Calçados,5.0,47.42,2025-01-20,Jaboatão
+Joshua Thompson,Camisa,Vestuário,1.0,276.67,2025-01-11,Jaboatão
+Troy Keith,Sapato,Calçados,1.0,135.05,2025-01-19,Jaboatão
+Christine Romero,Jaqueta,Acessórios,2.0,369.35,2025-01-03,Jaboatão
+Tyler Bates,Cinto,Calçados,5.0,68.47,2025-01-05,Boa Viagem
+Ashley Roberts,Jaqueta,Acessórios,2.0,291.02,2025-01-04,Boa Viagem
+Richard Long,Camisa,Vestuário,4.0,157.17,2025-01-19,Jaboatão
+Bobby Wood,Relógio,Vestuário,1.0,492.5,2025-01-20,Boa Viagem
+Joseph Anderson,Jaqueta,Acessórios,4.0,32.89,2025-01-09,Jaboatão
+Thomas Hampton,Bolsa,Acessórios,1.0,185.42,2025-01-09,Jaboatão
+Elaine Rojas,Bolsa,Acessórios,,,,Jaboatão
+Terry Roach,Jaqueta,Acessórios,3.0,253.72,2025-01-15,Boa Viagem
+Brittany Lee,Tênis,Calçados,,476.86,2025-01-13,Boa Viagem
+Aaron Martinez,Camisa,Vestuário,4.0,251.68,2025-01-02,Jaboatão
+Sheila Butler,Vestido,Vestuário,,443.96,2025-01-04,Jaboatão
+Elizabeth Kim,Camisa,Vestuário,3.0,268.78,,Jaboatão
+Julie Horton,Bolsa,Acessórios,,79.0,2025-01-19,Jaboatão
+Jim Ramirez,Jaqueta,Acessórios,1.0,,2025-01-04,Jaboatão
+Mitchell Clark,Cinto,Calçados,2.0,244.91,2025-01-05,Jaboatão
+Lisa Simpson,Tênis,Calçados,3.0,475.07,2025-01-09,Boa Viagem
+Elizabeth Kim,Sapato,Calçados,1.0,382.44,2025-01-14,Jaboatão
+Jeffrey Gibbs,Carteira,Acessórios,3.0,433.36,2025-01-17,Boa Viagem
+Natalie Green,Bolsa,Acessórios,3.0,,2025-01-11,Jaboatão
+Sherry Watts,Relógio,Vestuário,3.0,350.85,,Jaboatão
+James Mann,Cinto,Calçados,2.0,450.88,,Jaboatão
+Shannon Jackson,Tênis,Calçados,2.0,361.69,,Boa Viagem
+Jim Ramirez,Tênis,Calçados,5.0,301.03,2025-01-04,Boa Viagem
+Julie Horton,Jaqueta,Acessórios,5.0,397.09,2025-01-04,Boa Viagem
+Mr. Henry Lee,Bolsa,Acessórios,2.0,,,Jaboatão
+Kristin Weaver,Blusa,Vestuário,4.0,36.66,2025-01-18,Jaboatão
+David Watson,Sapato,Calçados,5.0,309.89,,Boa Viagem
+Lisa Fletcher,Sapato,Calçados,,346.12,,Boa Viagem
+Bobby Wood,Blusa,Vestuário,3.0,219.45,2025-01-05,Jaboatão
+James Kennedy,Tênis,Calçados,5.0,300.2,2025-01-15,Boa Viagem
+Terry Roach,Camisa,Vestuário,1.0,196.76,,Jaboatão
+Mary Howard,Vestido,Vestuário,1.0,34.91,2025-01-16,Boa Viagem
+Brandon Wallace,Relógio,Vestuário,2.0,99.84,2025-01-15,Boa Viagem
+Mary Johnson,Bolsa,Acessórios,4.0,439.51,2025-01-13,Boa Viagem
+Richard Long,Tênis,Calçados,4.0,494.36,2025-01-08,Jaboatão
+Elaine Rojas,Bolsa,Acessórios,,171.54,2025-01-05,Boa Viagem
+Margaret Clark,Carteira,Acessórios,5.0,389.02,2025-01-19,Jaboatão
+Mary Johnson,Jaqueta,Acessórios,,,2025-01-02,Boa Viagem
+Melissa Chen,Vestido,Vestuário,,51.2,,Boa Viagem
+Mary Johnson,Relógio,Vestuário,4.0,229.51,2025-01-17,Boa Viagem
+Michael Powers,Carteira,Acessórios,,242.3,2025-01-18,Boa Viagem
+Linda Schneider,Carteira,Acessórios,,483.75,2025-01-09,Jaboatão
+Julie Horton,Sapato,Calçados,4.0,246.23,2025-01-08,Boa Viagem
+Jonathan Strickland,Cinto,Calçados,2.0,324.36,2025-01-11,Jaboatão
+Shelly Reyes,Relógio,Vestuário,3.0,,,Boa Viagem
+Kristina Thomas,Camisa,Vestuário,3.0,265.03,2025-01-10,Jaboatão
+David Watson,Cinto,Calçados,3.0,124.56,2025-01-09,Boa Viagem
+Jonathan Strickland,Vestido,Vestuário,1.0,213.94,2025-01-01,Boa Viagem
+Joshua Thompson,Vestido,Vestuário,3.0,,2025-01-15,Jaboatão
+Shelly Reyes,Cinto,Calçados,5.0,484.02,2025-01-04,Jaboatão
+Michael Griffin Jr.,Camisa,Vestuário,3.0,287.03,2025-01-20,Boa Viagem
+Richard Long,Bolsa,Acessórios,,201.66,2025-01-12,Boa Viagem
+Joseph Cline,Jaqueta,Acessórios,5.0,270.27,2025-01-11,Boa Viagem
+Michael Lee,Sapato,Calçados,3.0,363.55,2025-01-07,Jaboatão
+Michael Griffin Jr.,Bolsa,Acessórios,1.0,88.97,2025-01-03,Boa Viagem
+Michael Lee,Cinto,Calçados,4.0,305.32,,Jaboatão
+Jeffrey Gibbs,Tênis,Calçados,5.0,479.23,,Boa Viagem
+Jim Ramirez,Blusa,Vestuário,3.0,236.6,2025-01-12,Boa Viagem
+Amanda Owen MD,Vestido,Vestuário,4.0,34.43,2025-01-15,Boa Viagem
+Christine Jones,Camisa,Vestuário,1.0,335.29,2025-01-12,Jaboatão
+Katie Mack,Sapato,Calçados,2.0,103.77,2025-01-05,Jaboatão
+Christopher Little,Tênis,Calçados,2.0,367.78,,Boa Viagem
+Jessica Stewart,Camisa,Vestuário,2.0,,2025-01-17,Jaboatão
+Mary Howard,Sapato,Calçados,,349.7,2025-01-12,Jaboatão
+Amanda Owen MD,Vestido,Vestuário,1.0,154.38,2025-01-11,Jaboatão
+Charles Mejia,Tênis,Calçados,5.0,431.35,,Jaboatão
+Amanda Owen MD,Cinto,Calçados,1.0,,2025-01-13,Jaboatão
+Rachel Hamilton,Bolsa,Acessórios,,58.42,2025-01-13,Boa Viagem
+Randy Moyer,Cinto,Calçados,2.0,220.76,2025-01-06,Boa Viagem
+Margaret Clark,Tênis,Calçados,,319.45,2025-01-07,Jaboatão
+Christine Romero,Vestido,Vestuário,1.0,442.9,2025-01-09,Boa Viagem
+Patricia Hicks,Blusa,Vestuário,3.0,435.97,2025-01-12,Jaboatão
+Michael Griffin Jr.,Bolsa,Acessórios,3.0,361.92,2025-01-01,Boa Viagem
+Joseph Anderson,Relógio,Vestuário,3.0,324.49,2025-01-11,Jaboatão
+Troy Keith,Vestido,Vestuário,2.0,427.72,2025-01-07,Boa Viagem
+Natalie Green,Bolsa,Acessórios,4.0,,2025-01-17,Jaboatão
+Michael Powers,Camisa,Vestuário,,354.98,2025-01-13,Jaboatão
+Erin Zavala,Camisa,Vestuário,4.0,477.86,2025-01-13,Boa Viagem
+Michael Griffin Jr.,Vestido,Vestuário,2.0,203.19,,Boa Viagem
+Denise Wilson,Cinto,Calçados,3.0,346.74,2025-01-16,Boa Viagem
+Melissa Chen,Cinto,Calçados,1.0,446.62,2025-01-01,Boa Viagem
+Terry Roach,Relógio,Vestuário,,149.64,2025-01-06,Jaboatão
+Kristina Thomas,Relógio,Vestuário,5.0,219.63,2025-01-09,Boa Viagem
+Monica Powell DDS,Blusa,Vestuário,,220.57,2025-01-08,Boa Viagem
+Jim Ramirez,Sapato,Calçados,2.0,96.36,2025-01-17,Jaboatão
+Anthony Mcfarland,Vestido,Vestuário,3.0,185.88,2025-01-01,Boa Viagem
+Brandon Wallace,Bolsa,Acessórios,,92.37,2025-01-09,Jaboatão
+Monica Powell DDS,Cinto,Calçados,2.0,,2025-01-15,Jaboatão
+Richard Long,Camisa,Vestuário,1.0,481.22,,Boa Viagem
+Patricia Hicks,Relógio,Vestuário,2.0,112.98,2025-01-12,Boa Viagem
+Bobby Wood,Jaqueta,Acessórios,4.0,,2025-01-20,Boa Viagem
+Margaret Clark,Jaqueta,Acessórios,3.0,,2025-01-16,Boa Viagem
+Joshua Thompson,Vestido,Vestuário,5.0,479.38,2025-01-03,Jaboatão
+John Glover,Relógio,Vestuário,3.0,,2025-01-04,Boa Viagem
+Kristin Weaver,Carteira,Acessórios,1.0,,2025-01-11,Jaboatão
+Joshua Thompson,Bolsa,Acessórios,5.0,433.37,2025-01-09,Jaboatão
+Vanessa Shepard,Bolsa,Acessórios,,377.02,2025-01-14,Boa Viagem
+Michael Griffin Jr.,Carteira,Acessórios,2.0,390.03,2025-01-17,Jaboatão
+Nicole White,Relógio,Vestuário,2.0,155.47,2025-01-17,Boa Viagem
+Jennifer Johnson,Jaqueta,Acessórios,3.0,373.73,2025-01-19,Jaboatão
+Ashley Roberts,Jaqueta,Acessórios,3.0,133.81,2025-01-04,Jaboatão
+Aaron Martinez,Sapato,Calçados,1.0,436.19,2025-01-15,Boa Viagem
+Janice Stanley,Jaqueta,Acessórios,3.0,125.14,,Boa Viagem
+Shannon Jackson,Cinto,Calçados,,263.13,2025-01-13,Boa Viagem
+Alexander Villegas,Sapato,Calçados,3.0,438.06,2025-01-02,Boa Viagem
+Michele Johnston,Bolsa,Acessórios,,398.84,,Boa Viagem
+Robin Harris,Relógio,Vestuário,1.0,486.13,2025-01-16,Jaboatão
+Darrell Lucas,Jaqueta,Acessórios,5.0,133.66,2025-01-20,Boa Viagem
+Rachel Hamilton,Cinto,Calçados,,,2025-01-11,Boa Viagem
+James Mann,Blusa,Vestuário,1.0,75.27,2025-01-07,Jaboatão
+Rachael Zuniga,Relógio,Vestuário,5.0,34.84,2025-01-11,Boa Viagem
+Sheila Butler,Vestido,Vestuário,2.0,447.71,2025-01-16,Jaboatão
+Ashley Roberts,Blusa,Vestuário,1.0,,2025-01-15,Jaboatão
+Raven Lynn,Sapato,Calçados,4.0,150.62,2025-01-08,Jaboatão
+Darrell Lucas,Vestido,Vestuário,,179.13,2025-01-07,Boa Viagem
+Regina Taylor,Sapato,Calçados,3.0,428.66,2025-01-05,Boa Viagem
+Joshua Thompson,Relógio,Vestuário,4.0,90.96,2025-01-12,Boa Viagem
+Mary Johnson,Bolsa,Acessórios,3.0,41.51,2025-01-09,Jaboatão
+Thomas Hampton,Cinto,Calçados,2.0,233.81,,Jaboatão
+Randy Moyer,Bolsa,Acessórios,5.0,175.8,2025-01-11,Jaboatão
+Shannon Jackson,Jaqueta,Acessórios,1.0,,,Boa Viagem
+Darrell Lucas,Bolsa,Acessórios,2.0,85.74,2025-01-13,Jaboatão
+Raven Lynn,Tênis,Calçados,2.0,,2025-01-16,Jaboatão
+Mitchell Clark,Vestido,Vestuário,3.0,63.38,2025-01-15,Boa Viagem
+Mr. Henry Lee,Tênis,Calçados,4.0,,2025-01-01,Boa Viagem
+Margaret Clark,Blusa,Vestuário,5.0,338.39,,Jaboatão
+Jennifer Johnson,Cinto,Calçados,1.0,395.16,2025-01-12,Jaboatão
+Tina Anderson,Camisa,Vestuário,3.0,,2025-01-20,Jaboatão
+Ashley Roberts,Tênis,Calçados,,,2025-01-11,Jaboatão
+Charles Mejia,Blusa,Vestuário,1.0,347.34,2025-01-03,Jaboatão
+Lisa Simpson,Blusa,Vestuário,,472.19,2025-01-03,Jaboatão
+Tina Anderson,Bolsa,Acessórios,2.0,387.37,2025-01-17,Jaboatão
+Jeffery Hernandez,Blusa,Vestuário,1.0,266.08,2025-01-08,Boa Viagem
+Terry Roach,Blusa,Vestuário,5.0,207.03,2025-01-11,Jaboatão
+Jonathan Strickland,Sapato,Calçados,1.0,,2025-01-15,Jaboatão
+Shirley Rivas,Carteira,Acessórios,1.0,345.24,2025-01-03,Jaboatão
+Shannon Jackson,Camisa,Vestuário,1.0,480.06,,Boa Viagem
+Alexandria Davis,Camisa,Vestuário,1.0,263.05,2025-01-15,Jaboatão
+Richard Long,Bolsa,Acessórios,5.0,306.77,2025-01-05,Jaboatão
+Emily Baker,Camisa,Vestuário,3.0,422.57,2025-01-14,Jaboatão
+Sheila Butler,Tênis,Calçados,5.0,,,Jaboatão
+Rhonda Rollins,Relógio,Vestuário,,,2025-01-10,Boa Viagem
+James Fox,Tênis,Calçados,5.0,170.21,2025-01-02,Boa Viagem
+Bobby Wood,Blusa,Vestuário,3.0,177.66,2025-01-03,Jaboatão
+Charles Mejia,Vestido,Vestuário,2.0,330.14,,Jaboatão
+Raven Lynn,Cinto,Calçados,5.0,236.61,2025-01-14,Boa Viagem
+Shirley Rivas,Blusa,Vestuário,1.0,444.69,2025-01-15,Jaboatão
+Tyler Bates,Relógio,Vestuário,,82.92,2025-01-03,Boa Viagem
+Alexander Villegas,Sapato,Calçados,3.0,214.68,2025-01-13,Jaboatão
+Jim Ramirez,Vestido,Vestuário,4.0,221.72,2025-01-13,Boa Viagem
+James Kennedy,Carteira,Acessórios,4.0,194.02,2025-01-17,Boa Viagem
+John Kennedy,Carteira,Acessórios,1.0,412.26,2025-01-01,Jaboatão
+Jim Ramirez,Camisa,Vestuário,5.0,313.92,2025-01-02,Jaboatão
+Christine Jones,Blusa,Vestuário,3.0,313.45,2025-01-09,Jaboatão
+Randy Moyer,Vestido,Vestuário,,191.1,2025-01-12,Boa Viagem
+Rachel Hamilton,Sapato,Calçados,1.0,205.09,2025-01-19,Jaboatão
+Andrew Butler,Sapato,Calçados,,123.72,2025-01-15,Boa Viagem
+Christine Jones,Jaqueta,Acessórios,3.0,55.2,2025-01-11,Boa Viagem
+Mary Long,Relógio,Vestuário,4.0,,2025-01-19,Boa Viagem
+Brandon Wallace,Camisa,Vestuário,3.0,76.6,2025-01-10,Jaboatão
+Michael Griffin Jr.,Camisa,Vestuário,4.0,315.82,,Boa Viagem
+Monica Powell DDS,Camisa,Vestuário,5.0,,2025-01-19,Boa Viagem
+Erin Zavala,Tênis,Calçados,3.0,,2025-01-14,Boa Viagem
+Nicole White,Sapato,Calçados,1.0,270.64,2025-01-13,Boa Viagem
+Robin Harris,Carteira,Acessórios,2.0,407.05,2025-01-17,Jaboatão
+Rachel Hamilton,Sapato,Calçados,4.0,209.88,2025-01-05,Jaboatão
+Kristin Weaver,Blusa,Vestuário,3.0,233.36,2025-01-11,Boa Viagem
+Evan Hernandez,Cinto,Calçados,2.0,400.12,2025-01-13,Boa Viagem
+Natalie Green,Carteira,Acessórios,4.0,454.88,2025-01-14,Boa Viagem
+Haley Rubio DVM,Jaqueta,Acessórios,2.0,350.02,,Jaboatão
+Christine Romero,Tênis,Calçados,1.0,188.39,2025-01-03,Boa Viagem
+Haley Rubio DVM,Cinto,Calçados,2.0,423.0,2025-01-02,Boa Viagem
+Katie Lewis,Bolsa,Acessórios,4.0,186.21,2025-01-19,Jaboatão
+Sherry Watts,Cinto,Calçados,5.0,373.44,2025-01-11,Jaboatão
+Brandon Wallace,Cinto,Calçados,,,2025-01-02,Jaboatão
+John Glover,Bolsa,Acessórios,3.0,46.84,2025-01-09,Boa Viagem
+Jonathan Jordan,Vestido,Vestuário,5.0,339.71,2025-01-03,Jaboatão
+Joseph Cline,Tênis,Calçados,2.0,390.56,2025-01-08,Boa Viagem
+Melissa Chen,Blusa,Vestuário,1.0,,,Boa Viagem
+Laura Pacheco,Tênis,Calçados,2.0,,2025-01-03,Jaboatão
+James Fox,Relógio,Vestuário,2.0,55.42,2025-01-09,Boa Viagem
+Michael Powers,Carteira,Acessórios,3.0,96.85,2025-01-16,Boa Viagem
+Randy Moyer,Relógio,Vestuário,1.0,163.03,2025-01-08,Boa Viagem
+Kimberly Mayer,Sapato,Calçados,4.0,186.55,,Boa Viagem
+Amanda Owen MD,Jaqueta,Acessórios,5.0,,2025-01-02,Boa Viagem
+Tanner Hickman,Jaqueta,Acessórios,5.0,91.53,2025-01-05,Jaboatão
+Monica Powell DDS,Relógio,Vestuário,3.0,35.22,2025-01-19,Boa Viagem
+Elaine Rojas,Camisa,Vestuário,1.0,,2025-01-18,Jaboatão
+Regina Taylor,Carteira,Acessórios,5.0,159.48,2025-01-09,Jaboatão
+Alexandria Davis,Tênis,Calçados,2.0,,2025-01-10,Boa Viagem
+Thomas Hampton,Jaqueta,Acessórios,5.0,,2025-01-08,Jaboatão
+Shirley Rivas,Camisa,Vestuário,1.0,495.47,2025-01-16,Boa Viagem
+Natalie Green,Cinto,Calçados,2.0,104.17,2025-01-04,Jaboatão
+Mitchell Clark,Bolsa,Acessórios,,311.46,2025-01-19,Jaboatão
+Michael Powers,Vestido,Vestuário,1.0,,2025-01-15,Boa Viagem
+Shirley Rivas,Relógio,Vestuário,5.0,293.89,2025-01-03,Jaboatão
+Samantha Petty,Vestido,Vestuário,4.0,222.37,2025-01-08,Boa Viagem
+Kimberly Mayer,Cinto,Calçados,4.0,55.49,2025-01-17,Boa Viagem
+Alexander Villegas,Tênis,Calçados,,242.08,,Boa Viagem
+Erin Zavala,Sapato,Calçados,1.0,490.02,2025-01-11,Jaboatão
+Jeffery Hernandez,Camisa,Vestuário,5.0,300.85,2025-01-07,Jaboatão
+Amanda Owen MD,Cinto,Calçados,5.0,236.18,2025-01-13,Jaboatão
+Daniel Vaughn,Blusa,Vestuário,5.0,471.66,2025-01-16,Jaboatão
+Mary Howard,Sapato,Calçados,3.0,107.29,2025-01-11,Jaboatão
+Brian Bird,Jaqueta,Acessórios,,122.95,2025-01-05,Jaboatão
+Patricia Hicks,Camisa,Vestuário,2.0,129.9,2025-01-09,Boa Viagem
+Mary Howard,Tênis,Calçados,1.0,131.98,2025-01-07,Boa Viagem
+Julie Horton,Cinto,Calçados,5.0,452.18,2025-01-16,Jaboatão
